@@ -39,6 +39,6 @@ System.out.println(nullString.length());
 }
 catch (Exception e) {
 System.out.println("Caught: " + "null");
-}
+ }
 }
 }
